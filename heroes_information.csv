@@ -86,7 +86,7 @@
 84,Billy Kincaid,Male,-,-,-,-99.0,Image Comics,-,bad,-99.0
 85,Binary,Female,blue,-,Blond,180.0,Marvel Comics,-,good,54.0
 86,Bionic Woman,Female,blue,Cyborg,Black,-99.0,,-,good,-99.0
-87,Bird-Brain,-,-,-,-,-99.0,Marvel Comics,-,good,-99.0
+87,Bird-Brain,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 88,Bird-Man,Male,-,Human,-,-99.0,Marvel Comics,-,bad,-99.0
 89,Bird-Man II,Male,-,Human,-,-99.0,Marvel Comics,-,bad,-99.0
 90,Birdman,Male,-,God / Eternal,-,-99.0,Hanna-Barbera,-,good,-99.0
@@ -111,7 +111,7 @@
 109,Blackwing,Male,blue,-,Black,185.0,Marvel Comics,-,bad,86.0
 110,Blackwulf,Male,red,Alien,White,188.0,Marvel Comics,-,-,88.0
 111,Blade,Male,brown,Vampire,Black,188.0,Marvel Comics,-,good,97.0
-112,Blaquesmith,-,black,-,No Hair,-99.0,Marvel Comics,-,good,-99.0
+112,Blaquesmith,Male,black,-,No Hair,-99.0,Marvel Comics,-,good,-99.0
 113,Bling!,Female,-,-,-,168.0,Marvel Comics,-,good,68.0
 114,Blink,Female,green,Mutant,Magenta,165.0,Marvel Comics,pink,good,56.0
 115,Blizzard,Male,-,-,-,-99.0,Marvel Comics,-,bad,-99.0
@@ -132,8 +132,8 @@
 130,Boomer,Female,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 131,Booster Gold,Male,blue,Human,Blond,196.0,DC Comics,-,good,97.0
 132,Box,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
-133,Box III,-,blue,-,Blond,193.0,Marvel Comics,-,good,110.0
-134,Box IV,-,brown,-,Brown / Black,-99.0,Marvel Comics,-,good,-99.0
+133,Box III,Male,blue,-,Blond,193.0,Marvel Comics,-,good,110.0
+134,Box IV,Male,brown,-,Brown / Black,-99.0,Marvel Comics,-,good,-99.0
 135,Brainiac,Male,green,Android,No Hair,198.0,DC Comics,green,bad,135.0
 136,Brainiac 5,Male,green,-,Blond,170.0,DC Comics,-,good,61.0
 137,Brother Voodoo,Male,brown,Human,Brown / White,183.0,Marvel Comics,-,good,99.0
@@ -159,12 +159,12 @@
 157,Captain Marvel II,Male,blue,Human,Black,175.0,DC Comics,-,good,74.0
 158,Captain Midnight,Male,-,Human,-,-99.0,Dark Horse Comics,-,good,-99.0
 159,Captain Planet,Male,red,God / Eternal,Green,-99.0,Marvel Comics,-,good,-99.0
-160,Captain Universe,-,-,God / Eternal,-,-99.0,Marvel Comics,-,good,-99.0
+160,Captain Universe,Male,-,God / Eternal,-,-99.0,Marvel Comics,-,good,-99.0
 161,Carnage,Male,green,Symbiote,Red,185.0,Marvel Comics,-,bad,86.0
 162,Cat,Female,blue,-,Blond,173.0,Marvel Comics,-,good,61.0
 163,Cat II,Female,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 164,Catwoman,Female,green,Human,Black,175.0,DC Comics,-,good,61.0
-165,Cecilia Reyes,-,brown,-,Brown,170.0,Marvel Comics,-,good,62.0
+165,Cecilia Reyes,Female,brown,-,Brown,170.0,Marvel Comics,-,good,62.0
 166,Century,Male,white,Alien,White,201.0,Marvel Comics,grey,good,97.0
 167,Cerebra,Female,-,Mutant,-,-99.0,Marvel Comics,-,good,-99.0
 168,Chamber,Male,brown,Mutant,Brown,175.0,Marvel Comics,-,good,63.0
@@ -177,7 +177,7 @@
 175,Chuck Norris,Male,-,-,-,178.0,,-,good,-99.0
 176,Citizen Steel,Male,green,Human,Red,183.0,DC Comics,-,good,170.0
 177,Claire Bennet,Female,blue,-,Blond,-99.0,NBC - Heroes,-,good,-99.0
-178,Clea,-,-,-,White,-99.0,Marvel Comics,-,good,-99.0
+178,Clea,Female,-,-,White,-99.0,Marvel Comics,-,good,-99.0
 179,Cloak,Male,brown,-,black,226.0,Marvel Comics,-,good,70.0
 180,Clock King,Male,blue,Human,Black,178.0,DC Comics,-,bad,78.0
 181,Cogliostro,Male,-,-,-,-99.0,Image Comics,-,bad,-99.0
@@ -195,7 +195,7 @@
 193,Cyborg,Male,brown,Cyborg,Black,198.0,DC Comics,-,good,173.0
 194,Cyborg Superman,Male,blue,Cyborg,Black,-99.0,DC Comics,-,bad,-99.0
 195,Cyclops,Male,brown,Mutant,Brown,191.0,Marvel Comics,-,good,88.0
-196,Cypher,-,blue,-,Blond,175.0,Marvel Comics,-,good,68.0
+196,Cypher,Female,blue,-,Blond,175.0,Marvel Comics,-,good,68.0
 197,Dagger,Female,blue,-,Blond,165.0,Marvel Comics,-,good,52.0
 198,Danny Cooper,Male,brown,-,Blond,-99.0,HarperCollins,-,good,-99.0
 199,Daphne Powell,Female,-,-,-,-99.0,ABC Studios,-,good,-99.0
@@ -203,7 +203,7 @@
 201,Darkhawk,Male,brown,Human,Brown,185.0,Marvel Comics,-,good,81.0
 202,Darkman,Male,-,-,-,-99.0,Universal Studios,-,good,-99.0
 203,Darkseid,Male,red,New God,No Hair,267.0,DC Comics,grey,bad,817.0
-204,Darkside,-,-,-,-,-99.0,,-,bad,-99.0
+204,Darkside,Male,-,-,-,-99.0,,-,bad,-99.0
 205,Darkstar,Female,brown,Mutant,Blond,168.0,Marvel Comics,-,good,56.0
 206,Darth Maul,Male,yellow / red,Dathomirian Zabrak,-,170.0,George Lucas,red / black,bad,-99.0
 207,Darth Vader,Male,yellow,Cyborg,No Hair,198.0,George Lucas,-,bad,135.0
@@ -233,7 +233,7 @@
 231,Dormammu,Male,yellow,-,No Hair,185.0,Marvel Comics,-,bad,-99.0
 232,Dr Manhattan,Male,white,Human / Cosmic,No Hair,-99.0,DC Comics,blue,good,-99.0
 233,Drax the Destroyer,Male,red,Human / Altered,No Hair,193.0,Marvel Comics,green,good,306.0
-234,Ego,-,-,-,-,-99.0,Marvel Comics,-,bad,-99.0
+234,Ego,Male,-,-,-,-99.0,Marvel Comics,-,bad,-99.0
 235,Elastigirl,Female,brown,Human,Brown,168.0,Dark Horse Comics,-,good,56.0
 236,Electro,Male,blue,Human,Auburn,180.0,Marvel Comics,-,bad,74.0
 237,Elektra,Female,blue,Human,Black,175.0,Marvel Comics,-,good,59.0
@@ -248,27 +248,27 @@
 246,Evil Deadpool,Male,white,Mutant,Red,188.0,Marvel Comics,-,bad,95.0
 247,Evilhawk,Male,red,Alien,Black,191.0,Marvel Comics,green,bad,106.0
 248,Exodus,Male,blue,Mutant,Black,183.0,Marvel Comics,red,bad,88.0
-249,Fabian Cortez,-,blue,-,Brown,196.0,Marvel Comics,-,bad,96.0
+249,Fabian Cortez,Male,blue,-,Brown,196.0,Marvel Comics,-,bad,96.0
 250,Falcon,Male,brown,Human,Black,188.0,Marvel Comics,-,good,108.0
 251,Fallen One II,Male,black,-,Blue,-99.0,Marvel Comics,-,bad,-99.0
 252,Faora,Female,-,Kryptonian,-,-99.0,DC Comics,-,bad,-99.0
-253,Feral,-,yellow (without irises),-,Orange / White,175.0,Marvel Comics,-,good,50.0
+253,Feral,Female,yellow (without irises),-,Orange / White,175.0,Marvel Comics,-,good,50.0
 254,Fighting Spirit,Female,-,-,Red,-99.0,DC Comics,-,good,-99.0
 255,Fin Fang Foom,Male,red,Kakarantharaian,No Hair,975.0,Marvel Comics,green,good,18.0
 256,Firebird,Female,brown,-,Black,165.0,Marvel Comics,-,good,56.0
-257,Firelord,-,white,-,Yellow,193.0,Marvel Comics,-,good,99.0
+257,Firelord,Male,white,-,Yellow,193.0,Marvel Comics,-,good,99.0
 258,Firestar,Female,green,Mutant,Red,173.0,Marvel Comics,-,good,56.0
 259,Firestorm,Male,brown,-,Black,-99.0,DC Comics,-,good,-99.0
 260,Firestorm,Male,blue,Human,Auburn,188.0,DC Comics,-,good,91.0
-261,Fixer,-,red,-,No Hair,-99.0,Marvel Comics,-,bad,-99.0
+261,Fixer,Male,red,-,No Hair,-99.0,Marvel Comics,-,bad,-99.0
 262,Flash,Male,blue,Human,Brown / White,180.0,DC Comics,-,good,81.0
 263,Flash Gordon,Male,-,-,-,-99.0,,-,good,-99.0
 264,Flash II,Male,blue,Human,Blond,183.0,DC Comics,-,good,88.0
 265,Flash III,Male,-,Human,-,183.0,DC Comics,-,good,86.0
 266,Flash IV,Male,yellow,Human,Auburn,157.0,DC Comics,-,good,52.0
-267,Forge,-,brown,-,Black,183.0,Marvel Comics,-,good,81.0
+267,Forge,Female,brown,-,Black,183.0,Marvel Comics,-,good,81.0
 268,Franklin Richards,Male,blue,Mutant,Blond,142.0,Marvel Comics,-,good,45.0
-269,Franklin Storm,-,blue,-,Grey,188.0,Marvel Comics,-,good,92.0
+269,Franklin Storm,Male,blue,-,Grey,188.0,Marvel Comics,-,good,92.0
 270,Frenzy,Female,brown,-,Black,211.0,Marvel Comics,-,bad,104.0
 271,Frigga,Female,blue,-,White,180.0,Marvel Comics,-,good,167.0
 272,Galactus,Male,black,Cosmic Entity,Black,876.0,Marvel Comics,-,neutral,16.0
@@ -279,13 +279,13 @@
 277,General Zod,Male,black,Kryptonian,Black,-99.0,DC Comics,-,bad,-99.0
 278,Genesis,Male,blue,-,Blond,185.0,Marvel Comics,-,good,86.0
 279,Ghost Rider,Male,red,Demon,No Hair,188.0,Marvel Comics,-,good,99.0
-280,Ghost Rider II,-,-,-,-,-99.0,Marvel Comics,-,good,-99.0
+280,Ghost Rider II,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 281,Giant-Man,Male,-,Human,-,-99.0,Marvel Comics,-,good,-99.0
 282,Giant-Man II,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 283,Giganta,Female,green,-,Red,62.5,DC Comics,-,bad,630.0
 284,Gladiator,Male,blue,Strontian,Blue,198.0,Marvel Comics,purple,neutral,268.0
 285,Goblin Queen,Female,green,-,Red,168.0,Marvel Comics,-,bad,50.0
-286,Godzilla,-,-,Kaiju,-,108.0,,grey,bad,
+286,Godzilla,Male,-,Kaiju,-,108.0,,grey,bad,
 287,Gog,Male,-,-,-,-99.0,DC Comics,-,bad,-99.0
 288,Goku,Male,-,Saiyan,-,175.0,Shueisha,-,good,62.0
 289,Goliath,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
@@ -408,8 +408,8 @@
 406,Light Lass,Female,blue,-,Red,165.0,DC Comics,-,good,54.0
 407,Lightning Lad,Male,blue,-,Red,155.0,DC Comics,-,good,65.0
 408,Lightning Lord,Male,blue,-,Red,191.0,DC Comics,-,bad,95.0
-409,Living Brain,-,yellow,-,-,198.0,Marvel Comics,-,bad,360.0
-410,Living Tribunal,-,blue,Cosmic Entity,No Hair,-99.0,Marvel Comics,gold,neutral,-99.0
+409,Living Brain,Male,yellow,-,-,198.0,Marvel Comics,-,bad,360.0
+410,Living Tribunal,Male,blue,Cosmic Entity,No Hair,-99.0,Marvel Comics,gold,neutral,-99.0
 411,Liz Sherman,Female,-,-,-,-99.0,Dark Horse Comics,-,good,-99.0
 412,Lizard,Male,red,Human,No Hair,203.0,Marvel Comics,-,bad,230.0
 413,Lobo,Male,red,Czarnian,Black,229.0,DC Comics,blue-white,neutral,288.0
@@ -421,11 +421,11 @@
 419,Luna,Female,-,Human,-,-99.0,Marvel Comics,-,good,-99.0
 420,Lyja,Female,green,-,Green,-99.0,Marvel Comics,-,good,-99.0
 421,Mach-IV,Male,brown,-,Brown,180.0,Marvel Comics,-,bad,79.0
-422,Machine Man,-,red,-,Black,183.0,Marvel Comics,-,good,383.0
+422,Machine Man,Male,red,-,Black,183.0,Marvel Comics,-,good,383.0
 423,Magneto,Male,grey,Mutant,White,188.0,Marvel Comics,-,bad,86.0
 424,Magog,Male,blue,-,Blond,-99.0,DC Comics,-,good,-99.0
 425,Magus,Male,black,-,-,183.0,Marvel Comics,-,bad,-99.0
-426,Man of Miracles,-,blue,God / Eternal,Silver,-99.0,Image Comics,-,-,-99.0
+426,Man of Miracles,Male,blue,God / Eternal,Silver,-99.0,Image Comics,-,-,-99.0
 427,Man-Bat,Male,brown,Human,Brown,-99.0,DC Comics,-,neutral,-99.0
 428,Man-Thing,Male,red,-,No Hair,213.0,Marvel Comics,green,good,225.0
 429,Man-Wolf,Male,brown,-,Auburn,188.0,Marvel Comics,-,good,90.0
@@ -502,15 +502,15 @@
 500,Omega Red,Male,red,-,Blond,211.0,Marvel Comics,-,bad,191.0
 501,Omniscient,Male,brown,-,Black,180.0,Team Epic TV,-,good,65.0
 502,One Punch Man,Male,-,Human,No Hair,175.0,Shueisha,-,good,69.0
-503,One-Above-All,-,-,Cosmic Entity,-,-99.0,Marvel Comics,-,neutral,-99.0
+503,One-Above-All,Male,-,Cosmic Entity,-,-99.0,Marvel Comics,-,neutral,-99.0
 504,Onslaught,Male,red,Mutant,No Hair,305.0,Marvel Comics,-,bad,405.0
 505,Oracle,Female,blue,Human,Red,178.0,DC Comics,-,good,59.0
 506,Osiris,Male,brown,-,Brown,-99.0,DC Comics,-,good,-99.0
 507,Overtkill,Male,-,-,-,-99.0,Image Comics,-,bad,-99.0
 508,Ozymandias,Male,blue,Human,Blond,-99.0,DC Comics,-,bad,-99.0
-509,Parademon,-,-,Parademon,-,-99.0,DC Comics,-,bad,-99.0
+509,Parademon,Male,-,Parademon,-,-99.0,DC Comics,-,bad,-99.0
 510,Paul Blart,Male,-,Human,-,170.0,Sony Pictures,-,good,117.0
-511,Penance,-,-,-,-,-99.0,Marvel Comics,-,good,-99.0
+511,Penance,Male,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 512,Penance I,Female,-,-,-,-99.0,Marvel Comics,-,good,-99.0
 513,Penance II,Male,blue,-,Blond,183.0,Marvel Comics,-,good,89.0
 514,Penguin,Male,blue,Human,Black,157.0,DC Comics,-,bad,79.0
@@ -585,7 +585,7 @@
 583,Scorpion,Male,brown,Human,Brown,211.0,Marvel Comics,-,bad,310.0
 584,Sebastian Shaw,Male,-,Mutant,-,-99.0,Marvel Comics,-,bad,-99.0
 585,Sentry,Male,blue,Mutant,Blond,188.0,Marvel Comics,-,neutral,87.0
-586,Shadow King,-,red,-,-,185.0,Marvel Comics,-,good,149.0
+586,Shadow King,Male,red,-,-,185.0,Marvel Comics,-,good,149.0
 587,Shadow Lass,Female,black,Talokite,Black,173.0,DC Comics,blue,good,54.0
 588,Shadowcat,Female,hazel,Mutant,Brown,168.0,Marvel Comics,-,good,50.0
 589,Shang-Chi,Male,brown,Human,Black,178.0,Marvel Comics,-,good,79.0
@@ -622,7 +622,7 @@
 620,Spider-Girl,Female,blue,Human,Brown,170.0,Marvel Comics,-,good,54.0
 621,Spider-Gwen,Female,blue,Human,Blond,165.0,Marvel Comics,-,good,56.0
 622,Spider-Man,Male,hazel,Human,Brown,178.0,Marvel Comics,-,good,74.0
-623,Spider-Man,-,red,Human,Brown,178.0,Marvel Comics,-,good,77.0
+623,Spider-Man,Male,red,Human,Brown,178.0,Marvel Comics,-,good,77.0
 624,Spider-Man,Male,brown,Human,Black,157.0,Marvel Comics,-,good,56.0
 625,Spider-Woman,Female,green,Human,Black,178.0,Marvel Comics,-,good,59.0
 626,Spider-Woman II,Female,-,-,-,-99.0,Marvel Comics,-,good,-99.0
@@ -699,7 +699,7 @@
 697,Violator,Male,-,-,-,-99.0,Image Comics,-,bad,-99.0
 698,Violet Parr,Female,violet,Human,Black,137.0,Dark Horse Comics,-,good,41.0
 699,Vision,Male,gold,Android,No Hair,191.0,Marvel Comics,red,good,135.0
-700,Vision II,-,red,-,No Hair,191.0,Marvel Comics,-,good,135.0
+700,Vision II,Male,red,-,No Hair,191.0,Marvel Comics,-,good,135.0
 701,Vixen,Female,amber,Human,Black,175.0,DC Comics,-,good,63.0
 702,Vulcan,Male,black,-,Black,-99.0,Marvel Comics,-,good,-99.0
 703,Vulture,Male,brown,Human,No Hair,180.0,Marvel Comics,-,bad,79.0
@@ -716,7 +716,7 @@
 714,White Queen,Female,blue,-,Blond,178.0,Marvel Comics,-,good,65.0
 715,Wildfire,Male,-,-,-,-99.0,DC Comics,-,good,-99.0
 716,Winter Soldier,Male,brown,Human,Brown,175.0,Marvel Comics,-,good,117.0
-717,Wiz Kid,-,brown,-,Black,140.0,Marvel Comics,-,good,39.0
+717,Wiz Kid,Female,brown,-,Black,140.0,Marvel Comics,-,good,39.0
 718,Wolfsbane,Female,green,-,Auburn,366.0,Marvel Comics,-,good,473.0
 719,Wolverine,Male,blue,Mutant,Black,160.0,Marvel Comics,-,good,135.0
 720,Wonder Girl,Female,blue,Demi-God,Blond,165.0,DC Comics,-,good,51.0
